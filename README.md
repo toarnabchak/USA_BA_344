@@ -1,6 +1,5 @@
 # USA_BA_344
 
-
 <hr>
 
 ## Chapter-1 - Project Management Resources:
@@ -241,5 +240,11 @@ Data Tables or Fact Table will have Foreign Keys, and will contain transactional
 ## Towards Growth and Towards Success
 
 ![image](https://github.com/user-attachments/assets/078e5be0-8bfb-457b-8864-4c9fc4fcedf9)
+
+<hr>
+
+## 9 Time Management Tools for Leaders
+
+![image](https://github.com/user-attachments/assets/cc9d7325-c4da-42ce-a3fb-f43993766925)
 
 <hr>
